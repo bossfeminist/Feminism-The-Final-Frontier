@@ -1,4 +1,3 @@
-# To boldly go where no man has gone before
+* 페미니즘, 그 마지막 개척지를 항해하는 여성 개발자 페미니스트를 위해 
 
 여성이자 개발자이며 페미니스트인 당신을 지지하고 응원합니다. 
-
